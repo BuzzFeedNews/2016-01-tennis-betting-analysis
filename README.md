@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BuzzFeedNews/2016-01-tennis-betting-analysis)
+
 # Methodology and Code: Detecting Match-Fixing Patterns In Tennis
 
 A closer look at the data analysis behind BuzzFeed News’ investigation into corruption in tennis. 
